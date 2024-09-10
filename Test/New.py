@@ -19,3 +19,4 @@ code_input = WebDriverWait(driver, 10).until(
 code_input.click()
 # Завершение работы с веб-драйвером
 # driver.quit()  # Закрытие браузера (закомментируйте, если хотите продолжать работу)
+print("test")
